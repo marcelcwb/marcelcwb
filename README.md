@@ -19,11 +19,11 @@ On this profile, I share projects, studies, tutorials, and tools that can help y
 
 ## 🛠️ Tools and Technologies I use
 
-- **Protocols and Concepts**: TCP/IP, DNS, DHCP, HTTP, SSL/TLS, VPNs, VLANs, BGP, RIP, OSPF
+- **Protocols and Concepts**: TCP/IP, DNS, DHCP, HTTP, SSL/TLS, VPNs, VLANs,SDWAN, BGP, RIP, OSPF
 - **Operating Systems**: Linux (Debian, Ubuntu, CentOS), Windows Server, Kali Linux, Cisco IOS
 - **Security Tools**: Wireshark, Nmap, Metasploit, Burp Suite, Nessus, Aircrack-ng, OpenVAS
 - **Firewalls**: CheckPoint, Cisco ASA, SonicWALL, FortiGate
-- **Programming Languages**: Python, Ruby, PHP
+- **Programming Languages**: Python, Ruby, PHP, Perl
 - **Other Tools**: Docker, VS Code, Visual Studio, Trello, Slack, Git
 
 ## 🌱 Currently Learning
